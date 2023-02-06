@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack,TypeScript,Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lpdraft](https://github.com/lpdraft)
+- 👨‍💻 All of my projects are available at [https://github.com/lpdraft] --> (https://github.com/lpdraft)
 
 - 💬 Ask me about **Reactjs, JavaScript, PHP**
 
