@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lpdraft&label=Profile%20views&color=0e75b6&style=flat" alt="lpdraft" /> </p>
 <img align="right" alt="Congind waves" width="400" src="https://i.pinimg.com/originals/06/bc/e8/06bce81285badba0c3becd273ca67f95.png" />
-- 🔭 I’m currently working on [musicPlayerApp](https://github.com/martapunset/music-player-final-project-backend/tree/develop)
+- 🔭 I’m currently working on [MERN_GifsApp](https://github.com/martapunset/music-player-final-project-backend/tree/develop)
 
 - 🌱 I’m currently learning **MERN Stack,TypeScript,Laravel**
 
