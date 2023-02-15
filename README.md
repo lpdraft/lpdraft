@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lpdraft] (https://github.com/lpdraft)
 
-- 💬 Ask me about **Reactjs, JavaScript, PHP**
+- 💬 Ask me about **Reactjs, JavaScript, Express, PHP**
 
 - 📫 How to reach me **lpdraft001@gmail.com**
 
