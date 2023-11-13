@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lpdraft&label=Profile%20views&color=0e75b6&style=flat" alt="lpdraft" /> </p>
 <img align="right" alt="Congind waves" width="400" src="https://i.pinimg.com/originals/06/bc/e8/06bce81285badba0c3becd273ca67f95.png" />
 
-- 🌱 I’m currently learning **MERN Stack,TypeScript,Laravel**
+
 
 - 👨‍💻 All of my projects are available at [ https://github.com/lpdraft & https://github.com/LokeshPereiro ]
 
-- 💬 Ask me about **Reactjs, JavaScript, Express, PHP**
+- 💬 Ask me about **Reactjs, JavaScript, Express**
 
 - 📫 How to reach me **lpdraft001@gmail.com**
 
